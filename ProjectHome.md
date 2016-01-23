@@ -1,0 +1,1 @@
+Goal of this project is a easy and affordable for all communication between our web interface and AS400 "scary" black and green char interface.
